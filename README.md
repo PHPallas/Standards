@@ -33,5 +33,4 @@ The term **MAY**, or the adjective **OPTIONAL**, signifies that an item is entir
 | Code                                                                                                                     | Rule Title                                                     | Maintainer | Version | Status      |
 |:-------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:----------|:-------:|:-----------:|
 | [SWDA-0018](https://github.com/PHPallas/Standards/blob/bd4bd09d4c267a176c19dff6569222fdbf972249/PHP/Coding-Standards.md) | PHP Coding Standard                                            | Sina Kuhestani  | 1.0     | Active      |
-
-
+| [SWDA-7001](https://github.com/PHPallas/Standards/blob/ff775a7248165566629deccdf94761e32fcdc1b2/Workflow/Methodology.md) | Workflow                                            | Sina Kuhestani  | 1.0     | Active      |
