@@ -30,8 +30,8 @@ The term **MAY**, or the adjective **OPTIONAL**, signifies that an item is entir
 
 ## Table of contents
 
-| Code      | Rule Title                                                     | Version | Status      |
-|:----------|:---------------------------------------------------------------|:-------:|:-----------:|
-| SWDA-0018 | PHP Coding Standard                                            | 1.0     | Active      |
+| Code                                                                                                                     | Rule Title                                                     | Version | Status      |
+|:-------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:-------:|:-----------:|
+| [SWDA-0018](https://github.com/PHPallas/Standards/blob/bd4bd09d4c267a176c19dff6569222fdbf972249/PHP/Coding-Standards.md) | PHP Coding Standard                                            | 1.0       | Active      |
 
 
